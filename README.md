@@ -13,3 +13,5 @@ This data is needed for program to run:
   - User latitude.
 
 The program accepts user input and outputs the results through a simple GUI.
+
+Check "running app.mp4" file for more details.
